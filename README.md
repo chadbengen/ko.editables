@@ -5,6 +5,12 @@ It is extremely easy to use solution suitable in most use cases.
 
 You could find examples of usage on http://romanych.github.com/ko.editables/
 
+## Version 0.10
+
+* Fixed rollback bug for observableArrays.
+* Added isEditing(scope)
+
+
 editable extender
 -----------------
 
